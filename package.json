@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/iiitoo/ntoo/issues"
   },
-  "homepage": "https://github.com/iiitoo/ntoo#readme"
+  "homepage": "https://github.com/iiitoo/ntoo#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
 }
